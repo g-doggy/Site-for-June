@@ -1,6 +1,3 @@
 # Site-for-June
-Some scripts for June
-
-Pesssiki-sobachkiiii
-
-arr we all is dust in the wind
+Some scripts for June;
+Now are maked some changes (yea, it's all of changes)
